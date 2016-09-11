@@ -1,0 +1,9 @@
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\bin\Debug\Project02.exe.config
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\obj\Debug\Project02.csprojResolveAssemblyReference.cache
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\obj\Debug\Project02.SentenceBuilder.resources
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\obj\Debug\Project02.Properties.Resources.resources
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\obj\Debug\Project02.csproj.GenerateResource.Cache
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\bin\Debug\Project02.exe
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\bin\Debug\Project02.pdb
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\obj\Debug\Project02.exe
+C:\Users\hypno_000\Google Drive\VBProjects\Project02\Project02\obj\Debug\Project02.pdb
